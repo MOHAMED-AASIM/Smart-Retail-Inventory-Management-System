@@ -305,9 +305,9 @@ JWT_SECRET=your_secret_key
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Your Name** ABDUL SALEEM MOHAMED AASIM 
 
-Final Year Project
+
 
 Smart Retail Inventory Management System
 
